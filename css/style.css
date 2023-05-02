@@ -538,7 +538,7 @@ h1 {
   font-size: 2em;
   font-weight: 900;
   letter-spacing: 1em;
-
+  margin-left: 25px;
   -webkit-box-shadow: inset 0px 0px 0.5em 0px var(--glow-color),
     0px 0px 0.5em 0px var(--glow-color);
   -moz-box-shadow: inset 0px 0px 0.5em 0px var(--glow-color),
